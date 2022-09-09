@@ -2,10 +2,19 @@ chicken
 waffles
 zero
 one
+two
+three
+four
 lawn darts
 plastic
 specular highlights
 gorilla suit
 ghost hunter
-Stephen Spielberg
 Stephen King
+Stephen Spielberg
+Ned Flanders
+The Book of Mormon
+Rosencrantz
+Gildenstern
+human
+dancer
