@@ -2,7 +2,6 @@ waffles
 zero
 one
 two
-two and a half
 three
 four
 plastic
@@ -12,6 +11,6 @@ ghost hunter
 Stephen King
 Stephen Spielberg
 Ned Flanders
-Kinky Boots
+The Book of Mormon
 Rosencrantz
 Gildenstern
